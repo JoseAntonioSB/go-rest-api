@@ -1,3 +1,3 @@
 # go-rest-api
 
-Create and api on go
+Create an api on go
